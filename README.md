@@ -11,4 +11,7 @@ After cloning the project, run 'npm install' in the terminal and 'npm start' aft
 ### Page appearance
 
 #### home page
+![image](https://github.com/DAHUO-Melbourne/IT-blog/blob/master/public/GIF/GIFHP.gif)
 
+#### details page
+![image](https://github.com/DAHUO-Melbourne/IT-blog/blob/master/public/GIF/GIFDT.gif)
