@@ -8,6 +8,8 @@ This Project is an IT blog which is made for Chinese clients and users, so the l
 
 After cloning the project, run 'npm install' in the terminal and 'npm start' after installing all the necessary packages, then the page would run on http://localhost:3000/
 
+Sometimes the images could be loaded slowly because of the network speed, you can refer to the effect gifs in the readme if so.
+
 ### Page appearance
 
 #### home page
