@@ -11,3 +11,4 @@ After cloning the project, run 'npm install' in the terminal and 'npm start' aft
 ### Page appearance
 
 #### home page
+
